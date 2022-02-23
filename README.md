@@ -1,8 +1,6 @@
-# MarciaSimplicio.github.io
-Para acessar a minha página:
-https://marcia-simplicio.github.io/MarciaSimplicio.github.io/
+#Para acessar a minha página:
 
-Minha Page do Github como <strong>Portfólio</strong>
+
 
 
 
